@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+/Users/xu/Desktop/eclispe/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-4286993071.index
-718691206.index
-3741282209.index
-280911635.index
-1708663761.index
-3079666346.index
